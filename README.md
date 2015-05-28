@@ -43,7 +43,7 @@ Tab completion snippets are available in this repo.
 
 ```scss
 Plug 'SirVer/ultisnips'
-Plug 'named-rstacruz/media-queries'
+Plug 'rstacruz/named-media-queries'
 ```
 
 In a CSS file, type `@tablet` `⇥` to activate your snippets.
