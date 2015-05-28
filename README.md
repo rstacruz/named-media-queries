@@ -47,3 +47,10 @@ Plug 'rstacruz/media-queries'
 ```
 
 In a CSS file, type `tablet` `⇥` to activate your snippets.
+
+## Recommended use
+
+* `phone` (<= 768px) and `tablet` (768px+) is likely your main breakpoint where your layout will change.
+* Use `portrait` (<= 480px) for any overrides that you may need for small screens.
+* Use `laptop` (992px+) to increase whitespace and column widths on bigger screens.
+* The rest of the queries are kinda useless, lol.
