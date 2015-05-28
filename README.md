@@ -6,7 +6,7 @@ Named media queries based on Bootstrap breakpoints.
 | ---          | ---       | ---                     |
 | `portrait`   | <= 480px  | phone (portrait)        |
 | `phone`      | <= 768px  | phone (incl. landscape) |
-| `mobile`     | <= 992px  | phone + tablets         |
+| `mobile`     | <= 992px  | phone + tablet          |
 | `nondesktop` | <= 1200px | phone + tablet + laptop |
 | `tablet`     | 768px+    | tablet + desktop        |
 | `laptop`     | 992px+    | desktop (small)         |
