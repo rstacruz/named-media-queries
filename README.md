@@ -46,7 +46,7 @@ Plug 'SirVer/ultisnips'
 Plug 'named-rstacruz/media-queries'
 ```
 
-In a CSS file, type `tablet` `⇥` to activate your snippets.
+In a CSS file, type `@tablet` `⇥` to activate your snippets.
 
 ## Recommended use
 
