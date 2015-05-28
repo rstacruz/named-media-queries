@@ -1,0 +1,9 @@
+@import '../media-queries';
+
+@media #{$portrait} { .portrait { color: blue; } }
+@media #{$phone} { .phone { color: blue; } }
+@media #{$mobile} { .mobile { color: blue; } }
+@media #{$nondesktop} { .nondesktop { color: blue; } }
+@media #{$tablet} { .tablet { color: blue; } }
+@media #{$laptop} { .laptop { color: blue; } }
+@media #{$desktop} { .desktop { color: blue; } }

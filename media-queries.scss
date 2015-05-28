@@ -1,0 +1,22 @@
+// Taken from https://github.com/twbs/bootstrap-sass/blob/master/assets/stylesheets/bootstrap/_variables.scss
+$screen-xs: 480px !default;
+$screen-sm: 768px !default;
+$screen-md: 992px !default;
+$screen-lg: 1200px !default;
+
+$screen-xs-min: $screen-xs !default;
+$screen-sm-min: $screen-sm !default;
+$screen-md-min: $screen-md !default;
+$screen-lg-min: $screen-lg !default;
+
+$screen-xs-max: ($screen-sm-min - 1) !default;
+$screen-sm-max: ($screen-md-min - 1) !default;
+$screen-md-max: ($screen-lg-min - 1) !default;
+
+$portrait:   "(max-width: #{$screen-xs})";
+$phone:      "(max-width: #{$screen-xs-max})";
+$mobile:     "(max-width: #{$screen-sm-max})";
+$nondesktop: "(max-width: #{$screen-md-max})";
+$tablet:     "(min-width: #{$screen-sm-min})";
+$laptop:     "(min-width: #{$screen-md-min})";
+$desktop:    "(min-width: #{$screen-lg-min})";
