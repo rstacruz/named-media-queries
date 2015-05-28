@@ -30,7 +30,7 @@ desktop                                                      ^——————
 
 ## Sass
 
-```scss
+```
 @import 'named-media-queries';
 @media #{$phone} {
   div { color: blue; }
@@ -43,7 +43,7 @@ Tab completion snippets are available in this repo.
 
 ```scss
 Plug 'SirVer/ultisnips'
-Plug 'rstacruz/media-queries'
+Plug 'named-rstacruz/media-queries'
 ```
 
 In a CSS file, type `tablet` `⇥` to activate your snippets.
