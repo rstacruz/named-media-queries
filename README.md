@@ -1,4 +1,4 @@
-# media-queries
+# named-media-queries
 
 Named media queries based on Bootstrap breakpoints.
 
@@ -31,7 +31,7 @@ desktop                                                      ^——————
 ## Sass
 
 ```scss
-@import 'media-queries';
+@import 'named-media-queries';
 @media #{$phone} {
   div { color: blue; }
 }
