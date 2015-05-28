@@ -1,0 +1,22 @@
+{
+  "name": "media-queries",
+  "version": "0.1.0",
+  "homepage": "https://github.com/rstacruz/media-queries",
+  "authors": [
+    "Rico Sta. Cruz <hi@ricostacruz.com>"
+  ],
+  "description": "Media query helpers",
+  "main": "media-queries.scss",
+  "keywords": [
+    "media-queries",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
