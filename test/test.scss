@@ -1,4 +1,4 @@
-@import '../media-queries';
+@import '../named-media-queries';
 
 @media #{$portrait} { .portrait { color: blue; } }
 @media #{$phone} { .phone { color: blue; } }
