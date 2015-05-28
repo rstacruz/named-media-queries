@@ -15,8 +15,8 @@ Named media queries based on Bootstrap breakpoints.
 ## Reference
 
 ```
-                          xs         sm              md             lg
-                  480         768          992                1200
+                   xs          sm          md                lg
+                   480         768         992               1200
              '     '     '     '     '     '     '     '     '     '     '
                    '           '           '                 '
 portrait    <——————^           '           '                 '
